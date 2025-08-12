@@ -115,16 +115,13 @@
 | name                                                                                               | date | venue | arxiv                      | github                              |
 | -------------------------------------------------------------------------------------------------- | ---: | ----- | -------------------------- | ----------------------------------- |
 | GraphTTA: Test Time Adaptation on Graph Neural Networks                                            | 2022 | ICML  | —                          | —                                   |
-| GT3: Test-time Training for Graph Neural Networks                                                  | 2022 | arXiv | ([ACM Digital Library][1]) | —                                   |
-| GraphGLOW: Universal & Generalizable Structure Learning for GNNs                                   | 2023 | KDD   | ([IJCAI][2])               | (code linked on arXiv) ([IJCAI][2]) |
+| GT3: Test-time Training for Graph Neural Networks                                                  | 2022 | arXiv | —  | —                                   |
+| GraphGLOW: Universal & Generalizable Structure Learning for GNNs                                   | 2023 | KDD   | —             | —  |
 | Source-Free Unsupervised Graph Domain Adaptation (SOGA)                                            | 2024 | WSDM  | —                          | —                                   |
 | Graph Domain Adaptation via Theory-Grounded Spectral Regularization                                | 2023 | ICLR  | —                          | —                                   |
 | Investigating OOD Generalization of GNNs: An Architecture Perspective (DGAT)                       | 2024 | KDD   | —                          | —                                   |
-| Collaborate to Adapt: Source-Free Graph Domain Adaptation via Bi-Directional Adaptation (GraphCTA) | 2024 | WWW   | ([ACM Digital Library][3]) | —                                   |
+| Collaborate to Adapt: Source-Free Graph Domain Adaptation via Bi-Directional Adaptation (GraphCTA) | 2024 | WWW   | —  | —                                   |
 
-[1]: https://dl.acm.org/doi/10.1145/3366423.3380219?utm_source=chatgpt.com "Unsupervised Domain Adaptive Graph Convolutional ..."
-[2]: https://www.ijcai.org/proceedings/2019/0606.pdf?utm_source=chatgpt.com "DANE: Domain Adaptive Network Embedding"
-[3]: https://dl.acm.org/doi/abs/10.1145/3589334.3645507?utm_source=chatgpt.com "Source-Free Graph Domain Adaptation via Bi-directional ..."
 
 
 ## Data Threat: Unseen Data → Adversarial Training
